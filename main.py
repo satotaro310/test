@@ -1,2 +1,2 @@
-print("herro")
-print("uuuuu")
+print("hello")
+
